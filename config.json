@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authcrocess",
+        "uuid": 6421535,
+        "checksum": "2b75kn"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
